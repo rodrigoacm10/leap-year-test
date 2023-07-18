@@ -58,6 +58,3 @@ checkBoxContent.addEventListener('keypress', function (e) {
 });
 
 checkBoxBtn.addEventListener('click', bissextTest);
-
-console.log('sla');
-console.log('as');
