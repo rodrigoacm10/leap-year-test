@@ -1,0 +1,14 @@
+{
+  "name": "leap-year-test",
+  "version": "1.0.0",
+  "description": "test if a year is a leap year or not",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Rodrigo Andrade",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}

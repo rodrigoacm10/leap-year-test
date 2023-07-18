@@ -1,0 +1,33 @@
+h1,
+p,
+input,
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+  /* color: red; */
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.input {
+  text-align: center;
+}
+
+.year-content {
+  font-size: 100px;
+  line-height: 0%;
+}
+
+div p:last-child {
+  line-height: 4;
+}
+
+.actual-year {
+  font-weight: bold;
+}
+
+.hidden {
+  opacity: 0;
+}
